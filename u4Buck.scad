@@ -12,7 +12,7 @@ eps2 = 2*eps1;
 feeders_count = 1;
 
 // Width of the tape slot (tape width + margin).
-tape_slot_width = 12;
+tape_slot_width = 12.3;
 
 // Height of the tape slot (tape thickness + margin)
 tape_slot_height = 0.9;

@@ -12,16 +12,16 @@ eps2 = 2*eps1;
 feeders_count = 1;
 
 // Width of the tape slot (tape width + margin).
-tape_slot_width = 12;
+tape_slot_width = 12.3;
 
 // Height of the tape slot (tape thickness + margin)
 tape_slot_height = 0.9;
 
 // Width of the slot below the tape.
-part_slot_width = 4.5;
+part_slot_width = 3.5;
 
 // Height of the slot below the tape.
-part_slot_height = 1.4;
+part_slot_height = 1.3;
 //was 2
 // Overall length.
 total_length = 50;  
